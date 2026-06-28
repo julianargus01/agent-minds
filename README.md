@@ -13,7 +13,7 @@ Both skills are powered by one shared knowledge base: the
 
 | Skill | One-liner |
 |---|---|
-| **[cognassign](cognassign/)** | Type **one** agent/task. Job-first derivation → a `hero·parent` stack → a small `## Mind` block you paste into the agent. |
+| **[cognassign](cognassign/)** | Works out the best thinking style for one agent or task, and writes it as a short note you paste into that agent's instructions. |
 | **[forum](forum/)** | Convene a **council** of differently-typed agents on one problem. They deliberate in parallel, peer-review anonymously, and a chair synthesizes a verdict + dissent. |
 | **[reference/](reference/)** | The compendium both skills read. |
 
