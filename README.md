@@ -69,6 +69,9 @@ function-stack tables were drafted from theory and cross-checked; see the
 for what's verified vs. pending. MBTI typology is a useful *design lens* here, not a
 scientific claim.
 
+Inspiration for this build was sparked by the collaborative ideas of Curtis and
+Brooke Hays. The frameworks are the architecture; this repo is the implementation.
+
 ## License
 
 [MIT](LICENSE).
